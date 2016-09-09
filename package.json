@@ -1,6 +1,6 @@
 {
   "name": "react-redux-shopping-cart",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "React/Redux Shopping Cart",
   "scripts": {
     "start": "cross-env NODE_ENV=development node server.js",
